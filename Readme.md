@@ -18,7 +18,11 @@
   
 
 ## 🏆 Activity
-<a href=""><h2>aaa</h2></a>
+<h2>Ajou Univ CyberSecurity</h2>
+<h2>Ajou GDSC 2기</h2>
+<h2>CRScube 재직</h2>
+<h2>NextStep TDD, Clean Code with Kotlin 7기</h2>
+
 
 
 
