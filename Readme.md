@@ -11,10 +11,10 @@
   
 
 ## 🏆 Activity
-<h2>Ajou Univ CyberSecurity</h2>
-<h2>Ajou GDSC 2기</h2>
-<h2>CRScube 재직</h2>
-<h2>NextStep TDD, Clean Code with Kotlin 7기</h2>
+<h6>Ajou Univ CyberSecurity</h6>
+<h6>Ajou GDSC 2기</h6>
+<h6>CRScube 재직</h6>
+<h6>NextStep TDD, Clean Code with Kotlin 7기</h6>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-Ya-Ho&count_private=true&show_icons=true)
