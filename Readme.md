@@ -6,6 +6,7 @@
 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JPA-A830CC?style=flat-square&logo=Jpa&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mybatis-A830CC?style=flat-square&logo=Mybatis&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Querydsl-A830CC?style=flat-square&logo=Querydsl&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   
