@@ -13,7 +13,7 @@
   
 
 ## 🏆 Activity
-<h6>대구대학교 정보보호영재교육원 고등 기초.심화 4기</h6>
+<h6>대구대학교 정보보호영재교육원 고등 기초.심화 4기 수료</h6>
 <h6>Ajou Univ CyberSecurity</h6>
 <h6>Ajou GDSC 2기</h6>
 <h6>CRScube 재직</h6>
