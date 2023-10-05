@@ -19,7 +19,4 @@
 <h6>CRScube 재직중</h6>
 <h6>NextStep TDD, Clean Code with Kotlin 7기 수료중</h6>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-Ya-Ho&count_private=true&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ya-Ho)](https://github.com/Ho-Ya-Ho/github-readme-stats)
