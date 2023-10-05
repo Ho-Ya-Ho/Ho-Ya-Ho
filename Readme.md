@@ -1,3 +1,10 @@
+<div align="center">
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=FFD1A8&lines=Hi+there!+I'm+Software+Developer+HO-YA-HO.)](https://git.io/typing-svg)
+<br>
+</div>
+
 ## 🛠 Technical Skills
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
