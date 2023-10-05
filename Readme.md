@@ -2,8 +2,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=FFD1A8&lines=Hi+there!+I'm+Software+Developer+HO-YA-HO.)](https://git.io/typing-svg)
-<br>
-</div>
 
 ## 🛠 Technical Skills
 
@@ -28,3 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ya-Ho&theme=cobalt&count_private=true)](https://github.com/Ho-Ya-Ho/github-readme-stats)
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-Ya-Ho&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Ho-Ya-Ho/github-readme-stats)
+
+<br>
+</div>
+
