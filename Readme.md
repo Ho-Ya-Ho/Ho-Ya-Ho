@@ -19,4 +19,5 @@
 <h6>CRScube 재직중</h6>
 <h6>NextStep TDD, Clean Code with Kotlin 7기 수료중</h6>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ya-Ho)](https://github.com/Ho-Ya-Ho/github-readme-stats)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-Ya-Ho&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Ho-Ya-Ho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ya-Ho&theme=cobalt&count_private=true)](https://github.com/Ho-Ya-Ho/github-readme-stats)
