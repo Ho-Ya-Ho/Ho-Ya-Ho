@@ -20,8 +20,8 @@
 ## 🏆 Activity
 <h6>대구대학교 정보보호영재교육원 고등 기초.심화 4기 수료</h6>
 <h6>Ajou Univ CyberSecurity</h6>
-<h6>Ajou GDSC(Google Developer Student Clubs) 2기</h6>
 <h6>CRScube 재직중</h6>
+<h6>Ajou GDSC(Google Developer Student Clubs) 2기</h6>
 <h6>NextStep TDD, Clean Code with Kotlin 7기 수료중</h6>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ya-Ho&theme=cobalt&count_private=true)](https://github.com/Ho-Ya-Ho/github-readme-stats)
